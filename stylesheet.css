@@ -1,0 +1,335 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.firstpart {
+  height: 680px;
+  width: 100%;
+  background: url("Images/netflix1Pic.jpeg ") center center/cover;
+  background-color: black;
+  box-shadow: inset -45px 41px 559px 124px black;
+  border-bottom: 8px solid rgb(47, 37, 37);
+}
+.netflixIcon {
+  height: 90px;
+  width: 160px;
+  padding-left: 35px;
+}
+.dropDown {
+  background-color: black;
+  color: white;
+  border-radius: 0px;
+  width: 100px;
+  height: 35px;
+  float: right;
+  margin-top: 30px;
+  font-size: 15px;
+  background: none;
+  
+}
+.SignBtn {
+  width: 85px;
+  height: 35px;
+  background-color: red;
+  border-radius: 3px;
+  border: 0px;
+  font-size: 15px;
+  color: white;
+  margin-top: 30px;
+  margin-right: 50px;
+  margin-left: 30px;
+  float: right;
+}
+.mainPara {
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+  line-height: 1.1;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 140px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.sub1Para {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 1px;
+  padding-bottom: 30px;
+}
+.sub2Para {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 18px;
+  letter-spacing: 0.1px;
+}
+.form {
+  padding-left: 410px;
+  display: flex;
+  align-items: center;
+}
+.emailForm {
+  height: 55px;
+  width: 410px;
+  font-size: 16px;
+  padding-left: 10px;
+}
+.emailBtn {
+  height: 58px;
+  width: 210px;
+  background-color: rgb(221, 42, 42);
+  border: 0ch;
+  color: white;
+  font-size: 27px;
+  padding-left: 1px;
+  letter-spacing: 1px;
+}
+.secondPart {
+  height: 480px;
+  width: 100%;
+  background-color: black;
+  border-bottom: 8px solid rgb(47, 37, 37);
+}
+.spPara1 {
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+  line-height: 1.1;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  text-align: left;
+  padding-bottom: 20px;
+}
+.spPara2 {
+  color: white;
+  font-size: 25px;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 1px;
+}
+.blockPara {
+  margin-left: 170px;
+  padding-top: 150px;
+  display: inline-block;
+}
+.rtSidePic {
+  float: right;
+  height: 390px;
+  width: 512px;
+  margin-right: 80px;
+  margin-top: 15px;
+}
+.thirdPart {
+  height: 470px;
+  width: 100%;
+  background-color: #000;
+  display: flex;
+  border-bottom: 8px solid rgb(47, 37, 37);
+}
+.leftside {
+  padding-top: 30px;
+  padding-left: 80px;
+}
+.mobile {
+  height: 400px;
+}
+.downloadingTap {
+  height: 95px;
+  width: 350px;
+  background-color: black;
+  border-radius: 10px;
+  border: 2px solid rgb(72, 60, 60);
+  margin-left: 95px;
+  bottom: 130px;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.boxshot {
+  margin: 10px;
+  height: 75px;
+  width: 50px;
+}
+.strangerPara {
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.subPara {
+  color: rgb(123, 10, 230);
+  font-size: 13px;
+  letter-spacing: 1px;
+}
+.paraBlock {
+  margin-left: 20px;
+}
+.downloadIcon {
+  width: 20px;
+  height: 20px;
+  background-color: tan;
+  margin-left: 85px;
+}
+.rtSide{
+    padding-top: 140px;
+    padding-left: 140px;
+}
+.tpPara1{
+    color: rgb(255, 255, 255);
+  font-size: 50px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 20px;
+}
+.forthPart{
+    height: 480px;
+  width: 100%;
+  background-color: #000;
+  display: flex;
+  border-bottom: 8px solid rgb(47, 37, 37);
+}
+.fLeftside{
+    padding-left: 160px;
+    padding-top: 200px;
+}
+.fRightside1{
+    height: 400px;
+    width: 550px;
+   
+}
+.fRightside{
+    margin-left: 70px;
+    margin-top: 60px;
+}
+.fivthPart{
+    height: 480px;
+  width: 100%;
+  background-color: #000;
+  display: flex;
+  border-bottom: 8px solid rgb(47, 37, 37);
+}
+.children{
+    height: 400px;
+    width: 500px;
+    padding-left: 160px;
+    padding-top: 70px;
+}
+.Rtside{
+    margin-top: 150px;
+    margin-left: 50px;
+}
+.sixthPart{
+    height: 980px;
+    width: 100%;
+    background-color: #000;
+    border-bottom: 8px solid rgb(47, 37, 37);
+}
+.Qns{
+    color: rgb(255, 255, 255);
+  font-size: 50px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 20px;
+  padding-top: 60px;
+  padding-left: 390px;
+  margin-bottom: 40px;
+}
+.NoQns{
+    height: 70px;
+    width: 800px;
+    margin-left: 330px;
+    margin-bottom: 10px;
+    background-color: rgb(64, 60, 60);
+    display: flex;
+    align-items: center;
+    
+}
+.questionNo{
+    color: white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    padding-left: 30px;
+}
+.plusIcon{
+    height: 30px;
+    width: 30px;
+    margin-left: auto;
+    padding-right: 30px;
+
+}
+.formend{
+    padding-top: 20px;
+    padding-left: 410px;
+    display: flex; 
+    
+    align-items: center;
+}
+.endPara{
+
+        color: white;
+        font-size: 20px;
+        text-align: center;
+        padding-top: 60px;
+        letter-spacing: 0.1px;
+      }
+.footer{
+    height: 350px;
+    width: 100%;
+    background-color: black;
+}
+.footerCont{
+    margin-left: 300px;
+    padding-top: 80PX;
+    padding-right: 430px;
+}
+.number{
+    color: rgb(87, 84, 84);
+    font-size: 17px;
+    letter-spacing:1px;
+    padding-bottom: 35px;
+
+}
+.linkfont{
+    text-decoration: none;
+    color: rgb(87, 84, 84);
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.fullflex{
+    display: flex;
+    justify-content: space-between;
+}
+.firstColumn{
+    display: flex;
+    flex-direction:column;
+}
+.dropDown2 {
+    
+    color: white;
+    border-radius: 0px;
+    width: 130px;
+    height: 50px;
+    float: left;
+    margin-top: 30px;
+    font-size: 15px;
+    background: none;
+    
+  }
+  .linkfont1{
+    color: gray;
+    padding-left: 300px;
+    padding-top: 30px;
+    font-size: 14px;
+    
+  }
+  .companyname{
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    
+  }
